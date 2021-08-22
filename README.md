@@ -1,16 +1,21 @@
 # React. SignUp Page
 
-Необходимо сверстать респонсив страницу c формой регистрации.<br>
-По нажатию на кнопку "SignUp" должен появляться алерт со значениями из формы.<br>
+You need to create a responsive page with a registration form.
+By clicking on the "SignUp" button, an alert should appear with the values from the form.<br>
 
-По итогам ждем git репозиторий с выполненым заданием.
+As a result, we are waiting for the git repository with the completed task.
 
-#### Валидации полей:
+#### Requirements:
+- React.js;
+- CSS preprocessor of your choice;
+- Front-end toolkit of your choice (Bootstrap, Ant design etc.), consider it is an enterprise project.
+
+#### Validations:
 - email: required + email format
 - password: required + min 6 characters
 - password confirmation: required + equality with password
 
-#### Дизайн страницы находится по ссылке:<br>
+#### Design sources:<br>
 https://www.figma.com/file/N90535xMelza7jSgvsS9aX/Task-Doc-Registration
 
 
